@@ -11,7 +11,7 @@
 
 - 🎓 Software Engineering student at **Gümüşhane University**
 - 🔐 Building my foundation in programming, with a long-term focus on **cybersecurity**
-- 🌱 Currently learning **Python**, **C++** and **Object-Oriented Programming**
+- 💻 Programming languages: **Python** and **C++**
 
 ### 🛠️ Languages & Tools
 
